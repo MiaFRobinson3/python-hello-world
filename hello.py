@@ -4,7 +4,10 @@
 # to the console (the panel on the right)
 
 print("Hello");
-
+print("Hello, World!")
+print(3)
+print(3+4)
+print("i was born in" + " 1989")
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
